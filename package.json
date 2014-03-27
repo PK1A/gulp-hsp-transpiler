@@ -1,0 +1,20 @@
+{
+    "name": "gulp-hsp-transpiler",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PK1A/gulp-hsp-compiler.git"
+    },
+    "bugs": {
+        "url": "https://github.com/PK1A/gulp-hsp-compilerp/issues"
+    },
+    "homepage": "https://github.com/PK1A/gulp-hsp-compiler",
+    "dependencies": {
+        "gulp": "~3.5.6",
+        "through2": "~0.4.1",
+        "gulp-util": "~2.2.14"
+    },
+    "peerDependencies": {
+        "hashspace": "*"
+    }
+}
